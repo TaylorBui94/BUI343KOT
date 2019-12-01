@@ -5,7 +5,6 @@ using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 
-
 public class EnterGame : MonoBehaviour
 {
     public void loadGameBoard()

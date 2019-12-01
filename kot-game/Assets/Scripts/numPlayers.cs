@@ -6,10 +6,9 @@ using UnityEngine.UI;
 public class numPlayers : MonoBehaviour
 {
     // initialize global playercount to 2 players
-    
+    public static int playercount = 2;
     
     public void updateNumPlayers(Dropdown dd) {
-        int playercount = 2; 
      // Want 2-6 players, but .value returns index starting at 0.
      // We just add 2 in order to get the correct number of players
         playercount = dd.value + 2;
