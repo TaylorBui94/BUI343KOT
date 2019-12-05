@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 91ce8a0d649f7a44d85c86a6148b0c94
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - OneFace: {fileID: 2800000, guid: 68669f05939ed534bb7416dadfabc53b, type: 3}
+  - TwoFace: {fileID: 2800000, guid: 583afa858dbb3444a971994349b89386, type: 3}
+  - ThreeFace: {fileID: 2800000, guid: 87111192abad43b44ac95f29ef81ae33, type: 3}
+  - HeartFace: {fileID: 2800000, guid: 342a656209f54e94fbc7ca7601b6de80, type: 3}
+  - EnergyFace: {fileID: 2800000, guid: 5b6d81f5ed943ba4987785fd83a7eaa1, type: 3}
+  - SmashFace: {fileID: 2800000, guid: 3d76bae058910324dae6649efe89a776, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
